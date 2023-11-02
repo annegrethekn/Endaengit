@@ -2,3 +2,4 @@ dette er fil 1
 Dette er en endring
 enda en endring
 dette og
+og dette
